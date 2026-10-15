@@ -26,7 +26,7 @@ int main() {
     EntidadProyecto miEntidad = {0, "Vacio - [Su Nombre y Apellido]", 0.0f};
 
     cout << "=====================================================" << endl;
-    cout << "  MODELADO STRUCT - ESTUDIANTE: [Su Nombre y Apellido] " << endl;
+    cout << "  MODELADO STRUCT - ESTUDIANTE: Alexander Veit " << endl;
     cout << "=====================================================" << endl;
 
     // Invocación enviando la dirección física de memoria con '&'
